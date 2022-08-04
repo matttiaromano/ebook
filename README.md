@@ -5,14 +5,15 @@
 Ciao, benvenut\* su _Matty's Tech Tips_, un Ebook costantemente aggiornato che ti aiuta ad utilizzare la Tecnologia come un vero PRO senza farti cadere in inganni o truffe.
 
 {% hint style="info" %}
-**Giusto 2 Tips prima di iniziare:**
+**Giusto 3 Tips prima di iniziare:**
 
-1. Per vedere tutte le pagine apri il menu a sinistra, se invece vuoi andare avanti tra gli articoli clicca il bottone in basso.
-2. Prima di utilizzare il sito aggiorna manualmente la pagina {F5} in modo da poter vedere le nuove pagine nel caso ci fossero.
+1. Per vedere **tutte le pagine** apri il **menu** a **sinistra**, se invece vuoi andare **avanti** tra gli articoli **clicca** il **bottone** in **basso**.
+2. Prima di **utilizzare** il sito **aggiorna manualmente** la pagina **{F5}** in modo da poter vedere le **nuove** pagine nel caso ci fossero.
+3. Usa gli **indici** di **ogni categoria** per **muoverti** tra gli articoli, puoi muoverti inoltre **tra le categorie** con il **sommario** dell'Ebook
 {% endhint %}
 
 {% hint style="warning" %}
-Su questo sito non ci sono annunci, tuttabia, alcuni servizi come UBlock o AdAway potrebbero interrompere il corretto funziona funzionamento della pagina Web, quindi ti consiglio di disabilitarli.
+Su questo sito **non** ci sono **annunci**, tuttavia, alcuni servizi come **UBlock** o **AdAway** potrebbero **interrompere** il corretto **funzionamento** della pagina, ti **consiglio** quindi di **disabilitarli**.
 {% endhint %}
 
 {% hint style="danger" %}
