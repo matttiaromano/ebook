@@ -1,8 +1,8 @@
 # Home
 
-## Benvenuto nella Biblioteca Tech!
+## Benvenuto su "Matty's Tech Tips"!
 
-Ciao, benvenuto nella Biblioteca Tech, un Ebook costantemente aggiornato che ti aiuta ad utilizzare la Tecnologia come un vero PRO senza farti cadere in inganni o truffe.
+Ciao, benvenut\* su _Matty's Tech Tips_, un Ebook costantemente aggiornato che ti aiuta ad utilizzare la Tecnologia come un vero PRO senza farti cadere in inganni o truffe.
 
 {% hint style="info" %}
 **Giusto 2 Tips prima di iniziare:**
