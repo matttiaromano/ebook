@@ -2,7 +2,7 @@
 
 ## Benvenuto su "Matty's Tech Tips"!
 
-Ciao, benvenut\* su _Matty's Tech Tips_, un Ebook costantemente aggiornato che ti aiuta ad utilizzare la Tecnologia come un vero PRO senza farti cadere in inganni o truffe.
+**Ciao**, benvenut\* su _Matty's Tech Tips_, un **Ebook costantemente aggiornato** che ti **aiuta** ad **utilizzare** la **Tecnologia** come un **vero PRO** senza farti cadere in **inganni** o **truffe**.
 
 {% hint style="info" %}
 **Giusto 3 Tips prima di iniziare:**
